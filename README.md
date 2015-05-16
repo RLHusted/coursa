@@ -1,2 +1,2 @@
 # coursa
-repository for Coursa work
+repository for Coursera work

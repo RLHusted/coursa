@@ -5,3 +5,4 @@ what am I not 'gitting'?
 
 ### heading 3
 other text editors for local files
+* Rstudio

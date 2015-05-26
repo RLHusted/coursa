@@ -13,8 +13,8 @@ other text editors for local files
 
 ### steps
 
-*git init
-*git clone URL
-*git add . 
-*git commit -m 'msg'
-*git push origin master
+* git init
+* git clone URL
+* git add . 
+* git commit -m 'msg'
+* git push origin master

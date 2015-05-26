@@ -14,7 +14,18 @@ other text editors for local files
 ### steps
 
 * git init
-* git clone URL
+* git clone URL (or SSH?)
 * git add . 
 * git commit -m 'msg'
 * git push origin master
+
+to get updated made in GitHub to local
+* git pull origin master
+
+if not using git clone, need to manually set origin
+* git remote add origin URL (or SSH)
+
+git clone created the repo as a subdirectory in the working directory
+
+* git status
+anywhere along the way lets you know what step you need to do.

@@ -10,3 +10,11 @@ what am I not 'gitting'?
 other text editors for local files
 * Rstudio
 ** don't find the MD button referred to
+
+### steps
+
+git init
+git clone URL
+git add . 
+git commit -m 'msg'
+git push origin master
